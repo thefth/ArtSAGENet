@@ -76,7 +76,7 @@ The WikiArt<sup>Modern</sup> dataset can be found in the ```wikiart_modern.csv``
 The WikiArt<sup>Artists</sup> dataset can be found in the ```wikiart_artist.csv``` file and it contains the following attributes. Examples of the annotations per relevant attribute for the Pablo Picasso’s painting *Les Demoiselles d’Avignon*(1907) as can be found in the WikiArt collection, are given in parentheses.
 
 **Image paths**
-* image (containing the names of the 17785 photo reproductions used, e.g. ```pablo-picasso_the-girls-of-avignon-1907.jpg```).
+* image (containing the names of the 17,785 photo reproductions used, e.g. ```pablo-picasso_the-girls-of-avignon-1907.jpg```).
 * relative_path (the relative path for the [WikiArt Dataset (Refined)](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset) image folder for each image, e.g. ```Cubism/pablo-picasso_the-girls-of-avignon-1907.jpg```).
 
 **Attributes of Interest**
