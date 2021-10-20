@@ -1,4 +1,4 @@
-WikiArt Datasets
+WikiArt Dataset
 ====
 
 ## Usage
