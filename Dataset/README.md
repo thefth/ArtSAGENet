@@ -37,7 +37,7 @@ The WikiArt<sup>Full</sup> dataset can be found in the ```wikiart_full.csv``` fi
 * mode (specifying the train, val or test set that each painting was a member of, e.g. ```train```). 
 
 **General Attributes**
-* date (the creation year for each painting; if any, e.g. 1907).
+* date (the creation year for each painting; if any, e.g. ```1907```).
 * artist_name  (the unmasked artist attributed to each painting, e.g. ```pablo-picasso```).
 * additional_styles (any additional stylistic movement that a painting was attributed to; if any, e.g. ```None```).
 * artist_school  (the school of the artist authored each painting, e.g. ```spanish```).
@@ -57,7 +57,7 @@ The WikiArt<sup>Modern</sup> dataset can be found in the ```wikiart_modern.csv``
 **Attributes of Interest**
 * style_classification (containing the stylistic movement annotation for each painting, e.g. ```cubism```).
 * artist_attribution   (containing the artist attribution annotation for each painting, e.g. ```pablo-picasso```).
-* date (the creation year for each painting, e.g. 1907).
+* date (the creation year for each painting, e.g. ```1907```).
 * mode (specifying the train, val or test set that each painting was a member of, e.g. ```train```).
 
 **General Attributes**
@@ -86,7 +86,7 @@ The WikiArt<sup>Artists</sup> dataset can be found in the ```wikiart_artist.csv`
 * mode (specifying the train, val or test set that each painting was a member of, e.g. ```train```).
 
 **General Attributes**
-* date (the creation year for each painting, if any; e.g. 1907).
+* date (the creation year for each painting, if any; e.g. ```1907```).
 * additional_styles (any additional stylistic movement that a painting was attributed to; if any, e.g. ```None```).
 * artist_school  (the school of the artist authored each painting, e.g. ```spanish```).
 * tags (all tags associated to each painting, e.g. ```female-nude```).
