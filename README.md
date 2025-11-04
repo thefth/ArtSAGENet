@@ -174,7 +174,7 @@ ArtSAGENet/
 │   └── utils.py         # Utility functions
 ├── gnn_baselines/       # GNN baseline models
 │   ├── graphsage.py     # GraphSAGE implementation
-│   ├── clustergcn.py   # ClusterGCN implementation
+│   ├── clustergcn.py    # ClusterGCN implementation
 │   ├── graphsaint.py    # GraphSAINT implementation
 │   ├── sign.py          # SIGN implementation
 │   └── utils.py         # Shared utilities
