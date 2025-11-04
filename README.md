@@ -60,7 +60,7 @@ ArtSAGENet supports multiple fine art analysis tasks:
 
 ### Requirements
 - Python 3.9+
-- PyTorch 2.0+
+- PyTorch 1.7+
 - PyTorch Geometric
 - torchvision
 - scikit-learn
