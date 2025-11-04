@@ -227,4 +227,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Questions or Issues?** Please open an issue on our [GitHub repository](https://github.com/thefth/ArtSAGENet/issues).
+**Questions or Issues?** Please contact the corresponding author at a.efthymiou@uva.nl or open an issue on our [GitHub repository](https://github.com/thefth/ArtSAGENet/issues).
