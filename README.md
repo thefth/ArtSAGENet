@@ -184,8 +184,8 @@ ArtSAGENet/
 │   ├── wikiart_modern.csv
 │   └── wikiart_artists.csv
 ├── requirements.txt     # Python dependencies
-├── LICENSE             # License file
-└── README.md           # This file
+├── LICENSE              # License file
+└── README.md            # This file
 ```
 
 ---
