@@ -1,10 +1,26 @@
-WikiArt Datasets
-====
+# WikiArt Datasets
 
 ## Usage
 
-This repository contains the dataset used for the paper "Graph Neural Networks for Knowledge Enhanced Visual Representation of Paintings". All models were evaluated on three subsets, namely WikiArt<sup>Full</sup>, WikiArt<sup>Modern</sup> and WikiArt<sup>Artists</sup>. Each subset is provided as a .csv file (with the prefix of its respective version). A detailed description for each subset is given in the next sections. All images are taken from the [WikiArt Dataset (Refined)](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset) github repo.
+This repository contains the dataset splits used in the paper "Graph Neural Networks for Knowledge Enhanced Visual Representation of Paintings". All models were evaluated on three subsets: WikiArt<sup>Full</sup>, WikiArt<sup>Modern</sup>, and WikiArt<sup>Artists</sup>.
 
+Each subset is provided as a `.csv` file with the suffix of its respective version. A detailed description of each subset is given below.
+
+All images are taken from the [WikiArt Dataset (Refined)](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset) repository.
+
+## Dataset Setup
+
+This repository provides the dataset splits and annotations, but it does not include the actual image files.
+
+To reproduce the experiments or use the provided splits, you must first obtain the image archive from the original [WikiArt Dataset (Refined)](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset) repository and extract it locally.
+
+> **Important**
+> - This repository does not host the WikiArt images.
+> - Please follow the download instructions provided by the original dataset authors.
+> - The dataset can be used only for non-commercial research purposes.
+> - By using the dataset, you agree to the terms and conditions of [WikiArt.org](https://www.wikiart.org/en/terms-of-use).
+
+## Dataset Summary
 
 | Attribute  | WikiArt<sup>Full</sup> | WikiArt<sup>Modern</sup> | WikiArt<sup>Artists</sup> |
 |:-|:-|:-|:-|
@@ -14,12 +30,6 @@ This repository contains the dataset used for the paper "Graph Neural Networks f
 | Dates      | 587                           | 150                             | 240                              |
 | Timeframes | 13                            | 4                               | 8                                |
 | Tags       | 4,879                          | 3,652                            | 2,370                             |
-
-
-
-> **Note**: In order to get the most out of this repo, you need first to download the image folder provided in [WikiArt Dataset (Refined)](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset).
-
-
 
 ## WikiArt<sup>Full</sup>
 
